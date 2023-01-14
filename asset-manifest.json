@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ASTROWORLD-APP/static/css/main.073c9b0a.css",
+    "main.js": "/ASTROWORLD-APP/static/js/main.2ca15eb5.js",
+    "static/js/787.bc7d429a.chunk.js": "/ASTROWORLD-APP/static/js/787.bc7d429a.chunk.js",
+    "static/media/jackboys_logo.png": "/ASTROWORLD-APP/static/media/jackboys_logo.14425daff1320dd80c86.png",
+    "index.html": "/ASTROWORLD-APP/index.html",
+    "main.073c9b0a.css.map": "/ASTROWORLD-APP/static/css/main.073c9b0a.css.map",
+    "main.2ca15eb5.js.map": "/ASTROWORLD-APP/static/js/main.2ca15eb5.js.map",
+    "787.bc7d429a.chunk.js.map": "/ASTROWORLD-APP/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2ca15eb5.js"
+  ]
+}
